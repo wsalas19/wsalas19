@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on with a group on a final project for the HENRY bootcamp, developing an e-commerce site.<br>👯 I'm looking forward to collaborate on any react/ux-ui/e-commerce project<br>🌱 I’m currently learning Next.js, Typescript and MongoDB.<br>💬 Ask me about React, CSS and Auth0
+🔭 Currently working as a technical mentor at App Academy while building my MVP side project.<br>🌱 I’m currently learning Java, Sping Boot, Python and SQL<br>💬 Ask me about React, CSS, Typescript.
 
 
 ## 🌐 Socials:
